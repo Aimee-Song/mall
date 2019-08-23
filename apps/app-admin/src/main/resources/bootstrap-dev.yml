@@ -1,0 +1,18 @@
+server:
+  port: 8010
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://127.0.0.1:30000/eureka
+    fetchRegistry: true
+spring:
+  application:
+    name: app-admin
+  cloud:
+    config:
+      discovery:
+        enabled: true
+        service-id: config
+      name: app-admin
+      label: master #分支
+      profile: dev
