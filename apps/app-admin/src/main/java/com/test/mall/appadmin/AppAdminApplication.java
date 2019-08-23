@@ -5,7 +5,7 @@ import org.springframework.cloud.client.SpringCloudApplication;
 import org.springframework.context.annotation.ComponentScan;
 
 @SpringCloudApplication
-@ComponentScan(basePackages = {"com.test.mall.common.config"})
+@ComponentScan(basePackages = {"com.test.mall.common", "com.test.mall.appadmin.controller"})
 public class AppAdminApplication {
 
     public static void main(String[] args) {

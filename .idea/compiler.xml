@@ -9,8 +9,8 @@
         <module name="common" />
         <module name="app-admin" />
         <module name="gateway" />
-        <module name="config" />
         <module name="eureka" />
+        <module name="config" />
       </profile>
     </annotationProcessing>
   </component>

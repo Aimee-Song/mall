@@ -3,3 +3,6 @@ server:
 spring:
   application:
     name: app-admin
+security:
+  basic:
+    enabled: false
