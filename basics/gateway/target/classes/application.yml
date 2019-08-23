@@ -1,0 +1,12 @@
+server:
+  port: 80
+spring:
+  application:
+    name: gateway
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://127.0.0.1:30000/eureka
+    fetchRegistry: true
+zuul:
+  prefix: /api

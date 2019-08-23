@@ -1,0 +1,181 @@
+2019-08-23 14:32:26.955 [main] [] INFO  c.t.m.appadmin.AppAdminApplication - The following profiles are active: dev
+2019-08-23 14:32:27.700 [main] [] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-08-23 14:32:27.703 [main] [] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-08-23 14:32:28.227 [main] [] INFO  c.t.m.appadmin.AppAdminApplication - Started AppAdminApplication in 6.794 seconds (JVM running for 7.285)
+2019-08-23 15:33:16.562 [main] [] INFO  c.t.m.appadmin.AppAdminApplication - The following profiles are active: dev
+2019-08-23 15:33:17.347 [main] [] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-08-23 15:33:17.350 [main] [] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-08-23 15:33:17.925 [main] [] INFO  c.t.m.appadmin.AppAdminApplication - Started AppAdminApplication in 7.986 seconds (JVM running for 8.476)
+2019-08-23 15:42:03.438 [main] [] INFO  c.t.m.appadmin.AppAdminApplication - The following profiles are active: dev
+2019-08-23 15:42:04.214 [main] [] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-08-23 15:42:04.217 [main] [] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-08-23 15:42:04.765 [main] [] INFO  c.t.m.appadmin.AppAdminApplication - Started AppAdminApplication in 4.603 seconds (JVM running for 5.09)
+2019-08-23 15:48:20.860 [main] [] INFO  c.t.m.appadmin.AppAdminApplication - The following profiles are active: dev
+2019-08-23 15:48:21.606 [main] [] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-08-23 15:48:21.608 [main] [] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-08-23 15:48:22.127 [main] [] INFO  c.t.m.appadmin.AppAdminApplication - Started AppAdminApplication in 4.459 seconds (JVM running for 4.935)
+2019-08-23 15:55:08.856 [main] [] INFO  c.t.m.appadmin.AppAdminApplication - The following profiles are active: dev
+2019-08-23 15:55:09.607 [main] [] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-08-23 15:55:09.609 [main] [] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-08-23 15:55:10.179 [main] [] INFO  c.t.m.appadmin.AppAdminApplication - Started AppAdminApplication in 7.175 seconds (JVM running for 7.671)
+2019-08-23 15:58:18.498 [main] [] INFO  c.t.m.appadmin.AppAdminApplication - The following profiles are active: dev
+2019-08-23 15:58:19.290 [main] [] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-08-23 15:58:19.293 [main] [] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-08-23 15:58:19.818 [main] [] INFO  c.t.m.appadmin.AppAdminApplication - Started AppAdminApplication in 4.538 seconds (JVM running for 5.02)
+2019-08-23 16:17:36.893 [main] [] INFO  c.t.m.appadmin.AppAdminApplication - The following profiles are active: dev
+2019-08-23 16:17:38.040 [main] [] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2019-08-23 16:17:38.060 [main] [] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-08-23 16:17:38.062 [main] [] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-08-23 16:17:38.550 [main] [] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2019-08-23 16:17:38.563 [main] [] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2019-08-23 16:17:38.587 [main] [] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2019-08-23 16:17:38.620 [main] [] INFO  c.t.m.appadmin.AppAdminApplication - Started AppAdminApplication in 9.109 seconds (JVM running for 9.621)
+2019-08-23 16:26:56.469 [main] [] INFO  c.t.m.appadmin.AppAdminApplication - The following profiles are active: dev
+2019-08-23 16:26:57.733 [main] [] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2019-08-23 16:26:57.751 [main] [] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-08-23 16:26:57.754 [main] [] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-08-23 16:26:58.260 [main] [] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2019-08-23 16:26:58.273 [main] [] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2019-08-23 16:26:58.298 [main] [] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2019-08-23 16:26:58.331 [main] [] INFO  c.t.m.appadmin.AppAdminApplication - Started AppAdminApplication in 8.489 seconds (JVM running for 8.987)
+2019-08-23 16:34:44.693 [main] [] INFO  c.t.m.appadmin.AppAdminApplication - The following profiles are active: dev
+2019-08-23 16:34:45.855 [main] [] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2019-08-23 16:34:45.873 [main] [] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-08-23 16:34:45.876 [main] [] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-08-23 16:34:46.379 [main] [] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2019-08-23 16:34:46.390 [main] [] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2019-08-23 16:34:46.414 [main] [] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2019-08-23 16:34:46.446 [main] [] INFO  c.t.m.appadmin.AppAdminApplication - Started AppAdminApplication in 5.811 seconds (JVM running for 6.299)
+2019-08-23 16:37:29.837 [main] [] INFO  c.t.m.appadmin.AppAdminApplication - The following profiles are active: dev
+2019-08-23 16:37:30.966 [main] [] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2019-08-23 16:37:30.983 [main] [] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-08-23 16:37:30.986 [main] [] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-08-23 16:37:31.479 [main] [] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2019-08-23 16:37:31.490 [main] [] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2019-08-23 16:37:31.513 [main] [] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2019-08-23 16:37:31.545 [main] [] INFO  c.t.m.appadmin.AppAdminApplication - Started AppAdminApplication in 12.086 seconds (JVM running for 12.569)
+2019-08-23 16:47:38.874 [main] [] INFO  c.t.m.appadmin.AppAdminApplication - The following profiles are active: dev
+2019-08-23 16:47:40.000 [main] [] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2019-08-23 16:47:40.018 [main] [] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-08-23 16:47:40.021 [main] [] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-08-23 16:47:40.502 [main] [] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2019-08-23 16:47:40.515 [main] [] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2019-08-23 16:47:40.537 [main] [] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2019-08-23 16:47:40.568 [main] [] INFO  c.t.m.appadmin.AppAdminApplication - Started AppAdminApplication in 4.834 seconds (JVM running for 5.324)
+2019-08-23 17:04:46.611 [main] [] INFO  c.t.m.appadmin.AppAdminApplication - The following profiles are active: dev
+2019-08-23 17:04:47.745 [main] [] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2019-08-23 17:04:47.763 [main] [] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-08-23 17:04:47.766 [main] [] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-08-23 17:04:48.259 [main] [] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2019-08-23 17:04:48.271 [main] [] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2019-08-23 17:04:48.298 [main] [] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2019-08-23 17:04:48.331 [main] [] INFO  c.t.m.appadmin.AppAdminApplication - Started AppAdminApplication in 7.754 seconds (JVM running for 8.244)
+2019-08-23 17:05:19.849 [main] [] INFO  c.t.m.appadmin.AppAdminApplication - The following profiles are active: dev
+2019-08-23 17:05:21.048 [main] [] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2019-08-23 17:05:21.069 [main] [] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-08-23 17:05:21.072 [main] [] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-08-23 17:05:21.590 [main] [] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2019-08-23 17:05:21.602 [main] [] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2019-08-23 17:05:21.631 [main] [] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2019-08-23 17:05:21.666 [main] [] INFO  c.t.m.appadmin.AppAdminApplication - Started AppAdminApplication in 9.897 seconds (JVM running for 10.373)
+2019-08-23 17:06:29.473 [main] [] INFO  c.t.m.appadmin.AppAdminApplication - The following profiles are active: dev
+2019-08-23 17:06:30.620 [main] [] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2019-08-23 17:06:30.639 [main] [] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-08-23 17:06:30.642 [main] [] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-08-23 17:06:31.131 [main] [] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2019-08-23 17:06:31.141 [main] [] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2019-08-23 17:06:31.165 [main] [] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2019-08-23 17:06:31.203 [main] [] INFO  c.t.m.appadmin.AppAdminApplication - Started AppAdminApplication in 4.775 seconds (JVM running for 5.254)
+2019-08-23 17:08:03.336 [main] [] INFO  c.t.m.appadmin.AppAdminApplication - The following profiles are active: dev
+2019-08-23 17:08:04.118 [main] [] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-08-23 17:08:04.121 [main] [] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-08-23 17:08:04.664 [main] [] INFO  c.t.m.appadmin.AppAdminApplication - Started AppAdminApplication in 4.609 seconds (JVM running for 5.091)
+2019-08-23 17:08:08.824 [http-nio-8030-exec-1] [] INFO  c.t.m.a.controller.AdminController - app
+2019-08-23 17:08:09.580 [http-nio-8030-exec-3] [] INFO  c.t.m.a.controller.AdminController - app
+2019-08-23 17:08:09.747 [http-nio-8030-exec-5] [] INFO  c.t.m.a.controller.AdminController - app
+2019-08-23 17:08:09.907 [http-nio-8030-exec-6] [] INFO  c.t.m.a.controller.AdminController - app
+2019-08-23 17:08:10.067 [http-nio-8030-exec-9] [] INFO  c.t.m.a.controller.AdminController - app
+2019-08-23 17:08:20.696 [http-nio-8030-exec-2] [] INFO  c.t.m.a.controller.AdminController - app
+2019-08-23 17:10:56.302 [main] [] INFO  c.t.m.appadmin.AppAdminApplication - The following profiles are active: dev
+2019-08-23 17:10:57.069 [main] [] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-08-23 17:10:57.072 [main] [] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-08-23 17:10:57.648 [main] [] INFO  c.t.m.appadmin.AppAdminApplication - Started AppAdminApplication in 10.424 seconds (JVM running for 10.925)
+2019-08-23 17:11:43.924 [http-nio-8030-exec-4] [] INFO  c.t.m.a.controller.AdminController - app
+2019-08-23 17:11:44.451 [http-nio-8030-exec-10] [] INFO  c.t.m.a.controller.AdminController - app
+2019-08-23 17:11:44.619 [http-nio-8030-exec-8] [] INFO  c.t.m.a.controller.AdminController - app
+2019-08-23 17:11:44.781 [http-nio-8030-exec-1] [] INFO  c.t.m.a.controller.AdminController - app
+2019-08-23 17:11:45.980 [http-nio-8030-exec-7] [] INFO  c.t.m.a.controller.AdminController - app
+2019-08-23 17:11:46.134 [http-nio-8030-exec-8] [] INFO  c.t.m.a.controller.AdminController - app
+2019-08-23 17:11:46.276 [http-nio-8030-exec-10] [] INFO  c.t.m.a.controller.AdminController - app
+2019-08-23 17:13:23.589 [main] [] INFO  c.t.m.appadmin.AppAdminApplication - The following profiles are active: dev
+2019-08-23 17:13:24.559 [main] [] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-08-23 17:13:24.563 [main] [] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-08-23 17:13:25.237 [main] [] INFO  c.t.m.appadmin.AppAdminApplication - Started AppAdminApplication in 6.171 seconds (JVM running for 6.681)
+2019-08-23 17:13:41.367 [http-nio-8030-exec-1] [] INFO  c.t.m.a.controller.AdminController - app
+2019-08-23 17:13:42.051 [http-nio-8030-exec-4] [] INFO  c.t.m.a.controller.AdminController - app
+2019-08-23 17:13:42.227 [http-nio-8030-exec-4] [] INFO  c.t.m.a.controller.AdminController - app
+2019-08-23 17:13:42.395 [http-nio-8030-exec-4] [] INFO  c.t.m.a.controller.AdminController - app
+2019-08-23 17:13:42.548 [http-nio-8030-exec-1] [] INFO  c.t.m.a.controller.AdminController - app
+2019-08-23 17:13:42.716 [http-nio-8030-exec-3] [] INFO  c.t.m.a.controller.AdminController - app
+2019-08-23 17:13:44.100 [http-nio-8030-exec-1] [] INFO  c.t.m.a.controller.AdminController - app
+2019-08-23 17:13:44.252 [http-nio-8030-exec-5] [] INFO  c.t.m.a.controller.AdminController - app
+2019-08-23 17:13:44.428 [http-nio-8030-exec-5] [] INFO  c.t.m.a.controller.AdminController - app
+2019-08-23 17:13:44.597 [http-nio-8030-exec-3] [] INFO  c.t.m.a.controller.AdminController - app
+2019-08-23 17:13:44.772 [http-nio-8030-exec-7] [] INFO  c.t.m.a.controller.AdminController - app
+2019-08-23 17:13:44.940 [http-nio-8030-exec-6] [] INFO  c.t.m.a.controller.AdminController - app
+2019-08-23 17:13:45.108 [http-nio-8030-exec-3] [] INFO  c.t.m.a.controller.AdminController - app
+2019-08-23 17:23:35.716 [main] [] INFO  c.t.m.appadmin.AppAdminApplication - The following profiles are active: dev
+2019-08-23 17:23:36.511 [main] [] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-08-23 17:23:36.513 [main] [] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-08-23 17:23:37.086 [main] [] INFO  c.t.m.appadmin.AppAdminApplication - Started AppAdminApplication in 4.781 seconds (JVM running for 5.398)
+2019-08-23 17:25:36.369 [main] [] INFO  c.t.m.appadmin.AppAdminApplication - The following profiles are active: dev
+2019-08-23 17:25:37.514 [main] [] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2019-08-23 17:25:37.531 [main] [] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-08-23 17:25:37.534 [main] [] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-08-23 17:25:38.007 [main] [] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2019-08-23 17:25:38.018 [main] [] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2019-08-23 17:25:38.044 [main] [] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2019-08-23 17:25:38.074 [main] [] INFO  c.t.m.appadmin.AppAdminApplication - Started AppAdminApplication in 6.676 seconds (JVM running for 7.152)
+2019-08-23 17:26:03.665 [main] [] INFO  c.t.m.appadmin.AppAdminApplication - The following profiles are active: dev
+2019-08-23 17:26:04.427 [main] [] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-08-23 17:26:04.430 [main] [] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-08-23 17:26:04.995 [main] [] INFO  c.t.m.appadmin.AppAdminApplication - Started AppAdminApplication in 5.928 seconds (JVM running for 6.449)
+2019-08-23 17:26:08.525 [http-nio-8030-exec-1] [] INFO  c.t.m.a.controller.AdminController - app
+2019-08-23 17:26:09.092 [http-nio-8030-exec-5] [] INFO  c.t.m.a.controller.AdminController - app
+2019-08-23 17:26:09.292 [http-nio-8030-exec-7] [] INFO  c.t.m.a.controller.AdminController - app
+2019-08-23 17:26:09.468 [http-nio-8030-exec-2] [] INFO  c.t.m.a.controller.AdminController - app
+2019-08-23 17:26:09.652 [http-nio-8030-exec-2] [] INFO  c.t.m.a.controller.AdminController - app
+2019-08-23 17:26:09.803 [http-nio-8030-exec-3] [] INFO  c.t.m.a.controller.AdminController - app
+2019-08-23 17:26:09.980 [http-nio-8030-exec-3] [] INFO  c.t.m.a.controller.AdminController - app
+2019-08-23 17:26:10.155 [http-nio-8030-exec-5] [] INFO  c.t.m.a.controller.AdminController - app
+2019-08-23 17:26:10.333 [http-nio-8030-exec-4] [] INFO  c.t.m.a.controller.AdminController - app
+2019-08-23 17:26:10.502 [http-nio-8030-exec-7] [] INFO  c.t.m.a.controller.AdminController - app
+2019-08-23 17:26:10.636 [http-nio-8030-exec-1] [] INFO  c.t.m.a.controller.AdminController - app
+2019-08-23 17:26:10.780 [http-nio-8030-exec-5] [] INFO  c.t.m.a.controller.AdminController - app
+2019-08-23 17:26:14.460 [http-nio-8030-exec-2] [] INFO  c.t.m.a.controller.AdminController - app
+2019-08-23 17:26:14.611 [http-nio-8030-exec-3] [] INFO  c.t.m.a.controller.AdminController - app
+2019-08-23 17:26:14.757 [http-nio-8030-exec-7] [] INFO  c.t.m.a.controller.AdminController - app
+2019-08-23 17:26:44.893 [main] [] INFO  c.t.m.appadmin.AppAdminApplication - The following profiles are active: dev
+2019-08-23 17:26:46.017 [main] [] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2019-08-23 17:26:46.034 [main] [] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-08-23 17:26:46.036 [main] [] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-08-23 17:26:46.537 [main] [] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2019-08-23 17:26:46.547 [main] [] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2019-08-23 17:26:46.571 [main] [] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2019-08-23 17:26:46.642 [main] [] INFO  c.t.m.appadmin.AppAdminApplication - Started AppAdminApplication in 4.784 seconds (JVM running for 5.275)
+2019-08-23 17:27:27.112 [main] [] INFO  c.t.m.appadmin.AppAdminApplication - The following profiles are active: dev
+2019-08-23 17:27:28.231 [main] [] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2019-08-23 17:27:28.249 [main] [] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-08-23 17:27:28.252 [main] [] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-08-23 17:27:28.744 [main] [] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2019-08-23 17:27:28.754 [main] [] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2019-08-23 17:27:28.778 [main] [] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2019-08-23 17:27:28.809 [main] [] INFO  c.t.m.appadmin.AppAdminApplication - Started AppAdminApplication in 6.053 seconds (JVM running for 6.556)
+2019-08-23 17:28:36.615 [main] [] INFO  c.t.m.appadmin.AppAdminApplication - The following profiles are active: dev
+2019-08-23 17:28:37.736 [main] [] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2019-08-23 17:28:37.753 [main] [] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-08-23 17:28:37.756 [main] [] WARN  c.n.c.s.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
+2019-08-23 17:28:38.240 [main] [] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2019-08-23 17:28:38.250 [main] [] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2019-08-23 17:28:38.276 [main] [] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2019-08-23 17:28:38.307 [main] [] INFO  c.t.m.appadmin.AppAdminApplication - Started AppAdminApplication in 5.033 seconds (JVM running for 5.516)

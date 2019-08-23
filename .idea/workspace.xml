@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="967f73bb-fdb6-423b-a2f7-422d487ed278" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/app-admin/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/app-admin/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/app-admin/src/main/java/com/test/mall/appadmin/AppAdminApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/app-admin/src/main/java/com/test/mall/appadmin/controller/AdminController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/app-admin/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/app-admin/src/main/resources/bootstrap-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/app-admin/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/app-admin/src/test/java/com/test/mall/appadmin/AppAdminApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/common/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/common/src/main/java/com/test/mall/common/config/Swagger2Configuration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/common/src/test/java/com/test/mall/common/CommonApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/config/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/config/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/config/src/main/java/com/test/mall/config/ConfigApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/config/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/config/src/test/java/com/test/mall/config/ConfigApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/eureka/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/eureka/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/eureka/src/main/java/com/test/mall/eureka/EurekaApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/eureka/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/eureka/src/test/java/com/test/mall/eureka/EurekaApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/gateway/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/gateway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/gateway/src/main/java/com/test/mall/gateway/GatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/gateway/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/gateway/src/test/java/com/test/mall/gateway/GatewayApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/app-admin.2019-08-23.error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/app-admin.2019-08-23.info.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\IdeaProjects\test\mall\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Pj6EFb4OovaJvtPCXssy4TLmjv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/basics/common/src/main/java/com/test/mall/common" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/apps/app-admin/src/main/resources" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\test\mall\apps\app-admin\src\main\resources" />
+      <recent name="E:\IdeaProjects\test\mall\basics\config\src\main\resources" />
+      <recent name="E:\IdeaProjects\test\mall\basics\gateway\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.GatewayApplication">
+    <configuration name="AppAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="app-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.test.mall.appadmin.AppAdminApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <envs>
+        <env name="spring.profiles.active" value="dev" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.test.mall.common.CommonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.test.mall.config.ConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.test.mall.eureka.EurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.test.mall.gateway.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.AppAdminApplication" />
+      <item itemvalue="Spring Boot.ConfigApplication" />
+      <item itemvalue="Spring Boot.EurekaApplication" />
+      <item itemvalue="Spring Boot.GatewayApplication" />
+      <item itemvalue="Spring Boot.CommonApplication" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="967f73bb-fdb6-423b-a2f7-422d487ed278" name="Default Changelist" comment="" />
+      <created>1566375044934</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566375044934</updated>
+      <workItem from="1566375047989" duration="25530000" />
+      <workItem from="1566531556317" duration="12857000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

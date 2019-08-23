@@ -1,0 +1,16 @@
+server:
+  port: 9000
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://127.0.0.1:30000/eureka
+    fetchRegistry: false
+spring:
+  application:
+    name: config
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/Aimee-Song/mall-config.git
+          search-paths: /dev
